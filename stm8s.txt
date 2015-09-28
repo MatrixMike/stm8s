@@ -1,0 +1,13 @@
+Bus 002 Device 005: ID 0483:3744 STMicroelectronics STLINK Pseudo disk
+Bus 002 Device 004: ID 045e:0040 Microsoft Corp. Wheel Mouse Optical
+Bus 002 Device 002: ID 0409:0058 NEC Corp. HighSpeed Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 007 Device 003: ID 0b97:7772 O2 Micro, Inc. OZ776 CCID Smartcard Reader
+Bus 007 Device 002: ID 0b97:7761 O2 Micro, Inc. Oz776 1.1 Hub
+Bus 007 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 006 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 005 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 003 Device 002: ID 413c:8140 Dell Computer Corp. Wireless 360 Bluetooth
+Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub

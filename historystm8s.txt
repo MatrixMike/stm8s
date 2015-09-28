@@ -1,0 +1,1000 @@
+ 1016  ./arduino 
+ 1017  ifconfig 
+ 1018  tree ~/ | grep java
+ 1019  tree ~/ | grep javaLow
+ 1020  ./arduino 
+ 1021  cd ~/javaLowLevel/
+ 1022  java -version
+ 1023  java page11 
+ 1024  java page11  mike
+ 1025  history | grep push
+ 1026  cd ~/
+ 1027  ls -lc
+ 1028  ifconfig 
+ 1029  ls -al ~/.ssh
+ 1030  eval "$(ssh-agent -s)"
+ 1031  ssh-add ~/.ssh/id_rsa
+ 1032  gedit ~/.ssh/id_rsa.pub 
+ 1033  ssh -T git@github.com
+ 1034  pwd
+ 1035  git clone git@github.com:MatrixMike/javaLowLevel.git
+ 1036  ls -lc
+ 1037  cd javaLowLevel/
+ 1038  ls -lc
+ 1039  git status
+ 1040  git add README.md 
+ 1041  git status
+ 1042  watch -n 10 git status
+ 1043  git status
+ 1044  git add *.java
+ 1045  git status
+ 1046  git commit -m "dated the files"
+ 1047  git push -u origin master
+ 1048  watch -n 10 git status
+ 1049  ls -lc
+ 1050  ls -lct
+ 1051  git add MOOC1.java 
+ 1052  git add Lesson2a.java 
+ 1053  git add Tennis1.java 
+ 1054  git status
+ 1055  git commit -m "dated the files 2"
+ 1056  git push -u origin master
+ 1057  git add Recursion.java 
+ 1058  git status
+ 1059  git commit -m "dated the files 3"
+ 1060  git push -u origin master
+ 1061  git status
+ 1062  git push -u origin master
+ 1063  git status
+ 1064  ls -lc
+ 1065  git add Sine.html 
+ 1066  git add waves2.java 
+ 1067  git status
+ 1068  appletviewer Sine.html 
+ 1069  ls -lc
+ 1070  appletviewer Sine.html 
+ 1071  git status
+ 1072  ls -lc
+ 1073  git add StreamBuilder1.java 
+ 1074  git status
+ 1075  git commit -m "dated the files 4"
+ 1076  git push -u origin master
+ 1077  ls -lc
+ 1078  git status
+ 1079  git add StreamBuilder3.java 
+ 1080  git status
+ 1081  git commit -m "dated the files 5"
+ 1082  git push -u origin master
+ 1083  cd ~/scala/
+ 1084  ls -lc
+ 1085  cd scala/
+ 1086  ls -lc
+ 1087  scala gears.scala 
+ 1088  cd ~/java/lambda/
+ 1089  ls -lc
+ 1090  rm untitled.java 
+ 1091  rm untitled.class 
+ 1092  ls -lc
+ 1093  tree
+ 1094  cd ~/scala/
+ 1095  ls -lc
+ 1096  cd scala/
+ 1097  ls -lc
+ 1098  scala gears.scala 
+ 1099  java -version
+ 1100  cd /usr/lib/
+ 1101  ls 
+ 1102  ls  jvm/
+ 1103  cd /boot/
+ 1104  uname -r
+ 1105  ls -lc
+ 1106  dpkg --list 'linux-image*'
+ 1107  apt-get remove linux-image-3.13.0.32
+ 1108  sudo apt-get remove linux-image-3.13.0.32
+ 1109  ls -lc
+ 1110  df -h
+ 1111  sudo apt-get remove linux-image-3.13.0.45
+ 1112  df -h
+ 1113  ls -lc
+ 1114  sudo apt-get remove linux-image-3.13.0.49
+ 1115  ls -lc
+ 1116  df -h
+ 1117  sudo apt-get remove linux-image-3.13.0.51
+ 1118  df -h
+ 1119  ls -lc
+ 1120  sudo apt-get remove linux-image-3.13.0.52
+ 1121  ls -lc
+ 1122  df -h
+ 1123  sudo apt-get remove linux-image-3.13.0.53
+ 1124  df -h
+ 1125  ls -lc
+ 1126  ls -lcH
+ 1127  ls -lct
+ 1128  sudo apt-get remove linux-image-3.13.0.43
+ 1129  ls -lct
+ 1130  ls -lc
+ 1131  df -h
+ 1132  sudo apt-get autoremove
+ 1133  sudo apt-get update-grub
+ 1134  sudo update-grub
+ 1135  uname -r
+ 1136  df -h
+ 1137  uname -a
+ 1138  ls -lc
+ 1139  cd /boot/
+ 1140  ls -lc
+ 1141  history 
+ 1142  history | grep sudo
+ 1143  history | grep sudo > clean.txt
+ 1144  sudo history | grep sudo > clean.txt
+ 1145  history | grep sudo > clean.txt
+ 1146  sudo
+ 1147  sudo history | grep sudo > clean.txt
+ 1148  sudo history | grep sudo > ~/thisPC/clean.txt
+ 1149  history | grep sudo > ~/thisPC/clean.txt
+ 1150  ls ~/thisPC/
+ 1151  ls ~/thisPC/ -lc
+ 1152  cat  ~/thisPC/clean.txt
+ 1153  df -h
+ 1154  history 
+ 1155  ifconfig 
+ 1156  df -h
+ 1157  cd ~/javaLowLevel/
+ 1158  ls -lc
+ 1159  java Tennis1 
+ 1160  java StreamBuilder1 
+ 1161  java Recursion 
+ 1162  ifconfig 
+ 1163  ping 10.0.0.11
+ 1164  ssh mikeh@10.0.0.11
+ 1165  ls -lc
+ 1166  appletviewer Sine.html 
+ 1167  top
+ 1168  cd /boot/
+ 1169  ls -lc
+ 1170  mount
+ 1171  export 
+ 1172  update-java-alternatives -l
+ 1173  man update-java-alternatives 
+ 1174  update-java-alternatives -l
+ 1175  man javac
+ 1176  ls -lc
+ 1177  javac ThreeD.java 
+ 1178  git status
+ 1179  git add Yagi.html 
+ 1180  git add Recursion.java 
+ 1181  git status
+ 1182  git add ThreeD.java 
+ 1183  git add models/
+ 1184  git status
+ 1185  history | grep commit
+ 1186  git commit -m "added Yagi"
+ 1187  git status
+ 1188  history | grep push
+ 1189  git push -u origin master
+ 1190  git pull
+ 1191  git push -u origin master
+ 1192  git log
+ 1193  git pull
+ 1194  git log
+ 1195  git status
+ 1196  git diff
+ 1197  cd ~/
+ 1198  git clone https://github.com/MatrixMike/Linux-tricks-and-tips.git
+ 1199  cd Linux-tricks-and-tips/
+ 1200  ls -lc
+ 1201  cat java8install.txt 
+ 1202  cat cleanBootDir 
+ 1203  cd ~/
+ 1204  ls -lc
+ 1205  cd Yagi/
+ 1206  ls -lc
+ 1207  ls models/
+ 1208  mv Yagi.html ~/javaLowLevel/
+ 1209  mv ThreeD.java ~/javaLowLevel/
+ 1210  mv models/  ~/javaLowLevel/
+ 1211  ls *.class
+ 1212  ls *.class  -lc
+ 1213  rm *.class  -lc
+ 1214  rm *.class 
+ 1215  ls -lc
+ 1216  ls -lca
+ 1217  ls -lc
+ 1218  git status
+ 1219  ls -lc
+ 1220  ls models/
+ 1221  ls -lc
+ 1222  ls -lct
+ 1223  javac ThreeD.java 
+ 1224  ls -lct
+ 1225  javac ThreeD.java 
+ 1226  javac -version
+ 1227  javac ThreeD.java 
+ 1228  cat Yagi.html 
+ 1229  javac ThreeD.java 
+ 1230  export | grep JAVA
+ 1231  cd ~/Linux-tricks-and-tips/
+ 1232  git status
+ 1233  cd ~/JapanLCD/
+ 1234  ls -lc
+ 1235  cat LCD.help 
+ 1236  cat LCDB.help 
+ 1237  rm LCD.help 
+ 1238  ls -lc
+ 1239  git status
+ 1240  git push
+ 1241  git remote add JapanLCD https://github.com/MatrixMike/JapanLCD
+ 1242  git push JapanLCD
+ 1243  git pull
+ 1244  git pull JapanLCD
+ 1245  git status
+ 1246  git clone git@github.com:MatrixMike/JapanLCD.git
+ 1247  git status
+ 1248  ls -lc
+ 1249  ls JapanLCD/
+ 1250  git push JapanLCD
+ 1251  git pull JapanLCD
+ 1252  cd ~/javaLowLevel/
+ 1253  ls -lc
+ 1254  javac Dates1.java 
+ 1255  java Dates1
+ 1256  git pull
+ 1257  java Dates1
+ 1258  ls -lc
+ 1259  grep propert *.java
+ 1260  git status
+ 1261  javac PropertiesTest.java 
+ 1262  java PropertiesTest
+ 1263  git status
+ 1264  java PropertiesTest
+ 1265  git status
+ 1266  git add Dates1.java 
+ 1267  git add ThreeD.java 
+ 1268  git add myProperties.txt 
+ 1269  git status
+ 1270  git add PropertiesTest.java 
+ 1271  git status
+ 1272  history | grep commit 
+ 1273  git commit -m "dated the files 5"
+ 1274  git commit -m "dated the files 6"
+ 1275  git push
+ 1276  git init
+ 1277  git status
+ 1278  cd ~/JapanLCD/
+ 1279  git init
+ 1280  git status
+ 1281  cd ~/javaLowLevel/
+ 1282  git pull
+ 1283  ls -lc
+ 1284  ls -lct
+ 1285  cat README.md 
+ 1286  cd ~/JapanLCD/
+ 1287  git status
+ 1288  git add LCDB.ASM 
+ 1289  git add LCDB.HEX 
+ 1290  git add LCDB.lst 
+ 1291  git status
+ 1292  git add LCDB.map 
+ 1293  git add LCDB.err 
+ 1294  git status
+ 1295  hexdump LCDB.O
+ 1296  git status
+ 1297  hexdump LCDB.cof 
+ 1298  git status
+ 1299  history | grep commit 
+ 1300  git commit -m "a bit historic but good demo"
+ 1301  git status
+ 1302  mv LCD.help LCDB.help
+ 1303  git status
+ 1304  git add LCDB.help 
+ 1305  git status
+ 1306  git add LCDB.help 
+ 1307  git status
+ 1308  cat LCDB.help 
+ 1309  df -h
+ 1310  cd ~/Linux-tricks-and-tips/
+ 1311  ls -lc
+ 1312  cat java8install.txt 
+ 1313  git status
+ 1314  git add java8install.txt
+ 1315  git status
+ 1316  git commit -m "mentioned the oracle setup defaults tool"
+ 1317  git status
+ 1318  cd ~/arduino165/arduino-1.6.5/
+ 1319  ls -lc
+ 1320  ./arduino 
+ 1321  cd ~/javaLowLevel/
+ 1322  ls -lc
+ 1323  grep Ohm *.java
+ 1324  ls -lct
+ 1325  git status
+ 1326  git add Calculator2.java 
+ 1327  git add Calculator.java 
+ 1328  git status
+ 1329  ls -lct
+ 1330  sort < importsUnSorted.txt > importsSorted.txt
+ 1331  ls -lct
+ 1332  cat importsSorted.txt 
+ 1333  sort < importsUnSorted.txt > importsSorted.txt
+ 1334  cat importsSorted.txt 
+ 1335  sort < importsUnSorted.txt > importsSorted.txt
+ 1336  cat importsSorted.txt 
+ 1337  ls -lct
+ 1338  git status
+ 1339  git add importsSorted.txt 
+ 1340  git status
+ 1341  history | grep commit
+ 1342  git commit -m "Calculator2 is resistor calc - added sorted imports"
+ 1343  git push
+ 1344  java Calculator2 
+ 1345  git status
+ 1346  java Calculator2 
+ 1347  df -h
+ 1348  ifconfig 
+ 1349  ifconfig 
+ 1350  cd ~/arduino165/arduino-1.6.5/
+ 1351  ls -lc
+ 1352  ./arduino 
+ 1353  lsusb 
+ 1354  dmesg 
+ 1355  ls -lc
+ 1356  git status
+ 1357  lsusb 
+ 1358  cd ~/arduino165/arduino-1.6.5/
+ 1359  ./arduino 
+ 1360  ifconfig 
+ 1361  cd ~/arduino165/arduino-1.6.5/
+ 1362  ./arduino 
+ 1363  ifconfig 
+ 1364  top
+ 1365  ifconfig 
+ 1366  cd ~/RFID/
+ 1367  ls -lc
+ 1368  cd ~/
+ 1369  git clone https://github.com/alecthegeek/exampleArduinoFromCLI.git
+ 1370  cd exampleArduinoFromCLI/
+ 1371  ls -lc
+ 1372  cat blink.cpp 
+ 1373  ./arduino 
+ 1374  ifconfig 
+ 1375  cd ~/.arduino/preferences.txt
+ 1376  cat ~/.arduino/preferences.txt
+ 1377  lsusb 
+ 1378  ard-parse-boards
+ 1379  cd /usr/share/arduino/
+ 1380  ard-parse-boards
+ 1381  ls -lc
+ 1382  tree
+ 1383  ard-parse-boards | grep parse
+ 1384  cd /usr/bin/
+ 1385  ls -lc
+ 1386  ls -lc  | more
+ 1387  usb-devices 
+ 1388  usb-devices  | more
+ 1389  man printf
+ 1390  dig
+ 1391  nstat
+ 1392  nmap
+ 1393  man pic
+ 1394  uptime 
+ 1395  man pod2html 
+ 1396  pcb_calculator 
+ 1397  whereis ard-parse-boards
+ 1398  ard-parse-boards | grep parse
+ 1399  whereis ard-parse-boards
+ 1400  cd ~/arduino-mk/
+ 1401  ls -lc
+ 1402  cd arduino-mk-0.10/
+ 1403  ls -lc
+ 1404  tree
+ 1405  cd bin/
+ 1406  ls -lc
+ 1407  ./ard-parse-boards 
+ 1408  ifconfig 
+ 1409  lsusb 
+ 1410  dmesg
+ 1411  ifconfig 
+ 1412  ./arduino 
+ 1413  whois aspergies.com
+ 1414  whois aspergies.com.au
+ 1415  lsusb 
+ 1416  ./arduino 
+ 1417  ifconfig 
+ 1418  ifconfig 
+ 1419  thunderbird 
+ 1420  groups 
+ 1421  users
+ 1422  useradd 
+ 1423  users
+ 1424  groups 
+ 1425  history | grep dialout
+ 1426  history > ~/thisPC/history5.txt
+ 1427  uptime 
+ 1428  ps
+ 1429  ps -af
+ 1430  groups 
+ 1431  whoami 
+ 1432  users
+ 1433  useradd testmike
+ 1434  sudo useradd testmike
+ 1435  users
+ 1436  groups 
+ 1437  usermod -Gdialout,sudo,adm   testmike
+ 1438  sudo usermod -Gdialout,sudo,adm   testmike
+ 1439  cd ~/clojure/
+ 1440  ls -lc
+ 1441  cd clojure-master/
+ 1442  ls -lc
+ 1443  grep een *.clj
+ 1444  grep twee *.clj
+ 1445  clojure
+ 1446  groups
+ 1447  users
+ 1448  whoami 
+ 1449  users
+ 1450  groups 
+ 1451  groups  testmike
+ 1452  groups  fred
+ 1453  groups  fred2 
+ 1454  groups  testmike
+ 1455  groups  
+ 1456  groups  testmike
+ 1457  groups  fred2 
+ 1458  whoami 
+ 1459  groups  testmike2
+ 1460  df -h
+ 1461  uname -a
+ 1462  cd ~/Fritz/
+ 1463  ls -lc
+ 1464  cd fritzing-0.9.2b.linux.AMD64/
+ 1465  ls -lc
+ 1466  ./Fritzing 
+ 1467  df -h
+ 1468  cd ~/Fritz/
+ 1469  ls -lc
+ 1470  cd fritzing-0.9.2b.linux.AMD64/
+ 1471  ls -lc
+ 1472  ./Fritzing 
+ 1473  ls -lc
+ 1474  cat fritzing.rc 
+ 1475  ls -lc
+ 1476  cat readme.md 
+ 1477  ls -lc
+ 1478  cat Fritzing.1 
+ 1479  cd ~/eca/
+ 1480  ls -lc
+ 1481  ls -lct
+ 1482  putty
+ 1483  sftp  mike@10.0.0.2
+ 1484  cd ~/
+ 1485  cd Fritz/
+ 1486  ls -lc
+ 1487  cd fritzing-0.9.2b.linux.AMD64/
+ 1488  ls -lc
+ 1489  Fri
+ 1490  ./Fritzing 
+ 1491  cd ~/
+ 1492  cd ~/arduino165/arduino-1.6.5/
+ 1493  ls -lc
+ 1494  ./arduino 
+ 1495  lsusb 
+ 1496  cd ~/javaLowLevel/
+ 1497  git status
+ 1498  cat Calculator2.java 
+ 1499  touch .gitignore
+ 1500  git status
+ 1501  gedit .gitignore
+ 1502  git status
+ 1503  git add Calculator2.java 
+ 1504  git status
+ 1505  git add .gitignore
+ 1506  git status
+ 1507  history | grep git
+ 1508  git commit -m "Added .gitignore file"
+ 1509  git status
+ 1510  git push
+ 1511  git status
+ 1512  java Calculator2 
+ 1513  git status
+ 1514  ls -lct
+ 1515  cat MOOCSolution1.java 
+ 1516  rm  MOOCSolution1.java 
+ 1517  git status
+ 1518  cat ~/scratch/Calculator2.java 
+ 1519  git push
+ 1520  cp .gitignore  ~/scratch/
+ 1521  git pull
+ 1522  git status
+ 1523  git push
+ 1524  git status
+ 1525  git add .gitignore
+ 1526  cat Calculator2.java 
+ 1527  cp ~/scratch/Calculator2.java 
+ 1528  cp ~/scratch/Calculator2.java .
+ 1529  cat Calculator2.java 
+ 1530  javac Calculator2.java 
+ 1531  java Calculator2
+ 1532  git status
+ 1533  git add Calculator2.java 
+ 1534  javac Calculator2.java 
+ 1535  java Calculator2
+ 1536  ls -lct
+ 1537  git status
+ 1538  cat ~/scratch/Calculator2.java 
+ 1539  git status
+ 1540  cat importsUnSorted.txt 
+ 1541  git status
+ 1542  git push
+ 1543  git status
+ 1544  git add Calculator2.java 
+ 1545  git push
+ 1546  git status
+ 1547  cd ~/scratch/
+ 1548  ls -lc
+ 1549  rm *
+ 1550  ls -lc
+ 1551  cd ~/javaLowLevel/
+ 1552  ls -lc
+ 1553  ls -lct
+ 1554  git pull
+ 1555  javac SendMail2.java 
+ 1556  java SendMail2 
+ 1557  java SendMail2 test.com
+ 1558  javac Dates1.java 
+ 1559  java Dates1 
+ 1560  git status
+ 1561  git pull
+ 1562  javac ShowColorAndFont.java 
+ 1563  java ShowColorAndFont 
+ 1564  javac Example2.java Example3.java Person.java 
+ 1565  java Example2
+ 1566  java Example3
+ 1567  git status
+ 1568  ls -lc
+ 1569  git status
+ 1570  javac waves2.java 
+ 1571  appletviewer Sine.html 
+ 1572  git pull
+ 1573  javac waves2.java 
+ 1574  appletviewer Sine.html 
+ 1575  git status
+ 1576  git add Calculator2.java 
+ 1577  git status
+ 1578  git commit -m "Calc 2"
+ 1579  git status
+ 1580  git push
+ 1581  git status
+ 1582  ls -lct
+ 1583  ls -lca
+ 1584  javac Calculator2.java 
+ 1585  java Calculator2 
+ 1586  lsusb 
+ 1587  ls -lc
+ 1588  ./arduino 
+ 1589  git status
+ 1590  ls -lc
+ 1591  cat importsUnSorted.txt 
+ 1592  git status
+ 1593  git add importsUnSorted.txt 
+ 1594  git status
+ 1595  git commit -m "for consistency"
+ 1596  git push
+ 1597  git status
+ 1598  ping 10.0.0.3
+ 1599  ssh mike@10.0.0.3
+ 1600  ssh-keygen -f "/home/mikeh/.ssh/known_hosts" -R 10.0.0.3
+ 1601  ssh mike@10.0.0.3
+ 1602  ssh mikeh@10.0.0.3
+ 1603  w
+ 1604  whoami 
+ 1605  sudo init 6
+ 1606  putty
+ 1607  ssh mikeh@10.0.0.2
+ 1608  ifconfig 
+ 1609  ssh mikeh@10.0.0.2
+ 1610  ssh-keygen -f "/home/mikeh/.ssh/known_hosts" -R 10.0.0.2
+ 1611  ssh mikeh@10.0.0.2
+ 1612  ls -lc
+ 1613  ./arduino 
+ 1614  cd ~/lilypad/
+ 1615  ls -lc
+ 1616  git status
+ 1617  ifconfig 
+ 1618  cd ~/
+ 1619  ls -lc
+ 1620  ls -lct
+ 1621  Enigmailcd RevocationCertificate/
+ 1622  ls -lct
+ 1623  cd RevocationCertificate/
+ 1624  ls -lct
+ 1625  cat mh6269@gmail.com\ \(0x539416CD\)\ rev.asc 
+ 1626  ifco
+ 1627  ifconfig 
+ 1628  CD ~/javaLowLevel/
+ 1629  cd ~/javaLowLevel/
+ 1630  java Dates1 
+ 1631  cd ~/arduino165/arduino-1.6.5/
+ 1632  ./arduino 
+ 1633  cd ~/
+ 1634  cd Fritz/
+ 1635  ls -lc
+ 1636  cd fritzing-0.9.2b.linux.AMD64/
+ 1637  ls -lc
+ 1638  ./Fritzing 
+ 1639  lsusb 
+ 1640  cd ~/lilypad/
+ 1641  ls -lc
+ 1642  ifconfig 
+ 1643  ifconfig wlan0 off
+ 1644  ifconfig wlan0 down
+ 1645  sudo ifconfig wlan0 down
+ 1646  ifconfig 
+ 1647  sudo ifconfig wlan0 ip
+ 1648  sudo ifconfig wlan0 up
+ 1649  ifconfig 
+ 1650  sudo ifconfig wlan0 down
+ 1651  sudo ifconfig wlan0 up
+ 1652  sudo ifconfig wlan0 down
+ 1653  sudo ifconfig wlan0 up
+ 1654  ifconfig 
+ 1655  sudo ifconfig wlan0 up
+ 1656  cd ~/arduino165/arduino-1.6.5/
+ 1657  ls -lc
+ 1658  ./arduino 
+ 1659  cd ~/arduino165/arduino-1.6.5/
+ 1660  ls -lc
+ 1661  ./arduino 
+ 1662  ifconfig 
+ 1663  cd ~/
+ 1664  ls -lc
+ 1665  cd arduinoCube/
+ 1666  ls -lc
+ 1667  cd Cube4master/
+ 1668  ls -lc
+ 1669  cd examples/
+ 1670  ls -lc
+ 1671  lsusb 
+ 1672  ./arduino 
+ 1673  cd ~/picaxe/
+ 1674  ls -lc
+ 1675  cat compiler_readme.txt 
+ 1676  ./picaxe08m
+ 1677  ./picaxe08m  -h
+ 1678  sort < ~/countries/countries.txt > ~/countries/countries-srt.txt
+ 1679  ls -lc
+ 1680  cd ~/countries/
+ 1681  ls -lc
+ 1682  cat countries-srt.txt 
+ 1683  cd ~/javaLowLevel/
+ 1684  git pull
+ 1685  java lambdaTest1
+ 1686  java lambdaTest2 
+ 1687  javac *.java
+ 1688  git status
+ 1689  ls -lc
+ 1690  appletviewer Sine.html 
+ 1691  cat compiler_readme.txt 
+ 1692  ifconfig 
+ 1693  ping 10.0.0.4
+ 1694  ssh mike@10.0.0.4
+ 1695  ssh-keygen -f "/home/mikeh/.ssh/known_hosts" -R 10.0.0.4
+ 1696  ssh mike@10.0.0.4
+ 1697  ping 10.0.0.4
+ 1698  cd ~/javaLowLevel/
+ 1699  git status
+ 1700  git pull 
+ 1701  java StreamBuilder1 
+ 1702  javac StreamBuilder3.java 
+ 1703  java StreamBuilder3 
+ 1704  git status
+ 1705  git pull
+ 1706  git status
+ 1707  rm .gitignore~
+ 1708  git status
+ 1709  ls -lct
+ 1710  git status
+ 1711  git pull
+ 1712  top
+ 1713  git pull
+ 1714  javac Dates1.java 
+ 1715  java Dates1 
+ 1716  ifconfig 
+ 1717  cd ~/Fritz/
+ 1718  ls
+ 1719  cd fritzing-0.9.2b.linux.AMD64/
+ 1720  ls
+ 1721  ./Fritzing 
+ 1722  ls -lc
+ 1723  ./picaxe08m2
+ 1724  ./picaxe08m2  -h
+ 1725  ls -lc
+ 1726  ./picaxe08m2  AXE105\ -\ Electronic\ Dice1.bas 
+ 1727  cat AXE105\ -\ Electronic\ Dice1.bas 
+ 1728  ./picaxe08m2  AXE105\ -\ Electronic\ Dice1.bas 
+ 1729  ./picaxe08m2  AXE105\ -\ Electronic\ Dice1a.bas 
+ 1730  ls -lc
+ 1731  ls *.bas -lc
+ 1732  cat mikePic1.bas 
+ 1733  ls -lc
+ 1734  cat mikePic1.err 
+ 1735  ls *.bas -lc
+ 1736  cat compiler_readme.txt 
+ 1737  '***** Dice *****
+ 1738  '  for 08M2
+ 1739  ' mike  September 23 - 2015
+ 1740  main:
+ 1741  high 2'switch on the LEDs for 1
+ 1742  if input3 is on then display;  low 2;  goto main;  display:;  wait 2'wait 2 seconds
+ 1743  low 0'switch all pins off;  low 1;  low 2;  low 4;  goto main; 
+ 1744  cat compiler_readme.txt 
+ 1745  ls -lc
+ 1746  ./picaxe18x
+ 1747  ./picaxe18x -h
+ 1748  ./picaxe18x -f
+ 1749  lsusb 
+ 1750  ./picaxe18x -f
+ 1751  ./picaxe18x -c/dev/ttyUSB0 -f
+ 1752  ./picaxe18x  -f  -c/dev/ttyUSB0 
+ 1753  ls *.bas -lc
+ 1754  ./picaxe18x  -f  -c/dev/ttyUSB0 mikePic1.bas 
+ 1755  ls -lct
+ 1756  ./picaxe18x  -f  -c/dev/ttyUSB0 mikePic1.bas 
+ 1757  lsusb 
+ 1758  ./picaxe18x  -f  -c/dev/ttyUSB0 mikePic1.bas 
+ 1759  ls -lct
+ 1760  ./picaxe18x  -f  -c/dev/ttyUSB0 mikePic1.bas 
+ 1761  cat mikePic1.bas 
+ 1762  ls -lct
+ 1763  ./picaxe08m2  -f  -c/dev/ttyUSB0 mikePic1.bas 
+ 1764  git pull
+ 1765  javac RegexTestHarness.java 
+ 1766  java RegexTestHarness 
+ 1767  java RegexTestHarness "one:three:five:"
+ 1768  java RegexTestHarness < "one:three:five:"
+ 1769  java RegexTestHarness < regexTest.txt 
+ 1770  git status
+ 1771  git add .
+ 1772  git status
+ 1773  lsusb 
+ 1774  ls -lct
+ 1775  git clone git@github.com:MatrixMike/picaxeDemos.git
+ 1776  git status
+ 1777  ls -lct
+ 1778  cd picaxeDemos/
+ 1779  ls -lct
+ 1780  git status
+ 1781  cat README.md 
+ 1782  eclipse
+ 1783  df -h
+ 1784  cd ~/picaxe/
+ 1785  ls -lc
+ 1786  ls *.txt -lc
+ 1787  cat compiler_readme.txt 
+ 1788  git status
+ 1789  ls -lc
+ 1790  cd ~/picaxe/picaxeDemos/
+ 1791  ls -lc
+ 1792  git status
+ 1793  git add stepperMotorHelp.txt 
+ 1794  git status
+ 1795  git commit -m "hardware doco"
+ 1796  git push
+ 1797  git status
+ 1798  cd ~/javaLowLevel/
+ 1799  javac SimpleThreads.java 
+ 1800  java SimpleThreads 
+ 1801  appletviewer Si
+ 1802  appletviewer test1.html 
+ 1803  ls -lc
+ 1804  ls *.html -lc
+ 1805  appletviewer Sine.html 
+ 1806  grep sort *.java
+ 1807  git status
+ 1808  git add .
+ 1809  git status
+ 1810  git add Person1.java 
+ 1811  git add ReductionExamples.java 
+ 1812  git status
+ 1813  git push
+ 1814  git status
+ 1815  git commit -m "Streams & Lambdas"
+ 1816  git push
+ 1817  git status
+ 1818  cd ~/picaxe/
+ 1819  ls -lc
+ 1820  history | grep pica
+ 1821  ./picaxe18x -h
+ 1822  ./picaxe18x -c stepper6.bas 
+ 1823  ./picaxe18x -c mikeXub.bas 
+ 1824  ./picaxe18x -c stepper6.bas 
+ 1825  ./picaxe18x -c mikeXub.bas 
+ 1826  ./picaxe28x -c mikeXub.bas 
+ 1827  ls -lc
+ 1828  cat stepper1.bas 
+ 1829  ./picaxe18x -c mikeXub.bas 
+ 1830  ./picaxe08x -c mikeXub.bas 
+ 1831  ./picaxe08 -c mikeXub.bas 
+ 1832  ./picaxe08m -c mikeXub.bas 
+ 1833  ./picaxe08m2 -c mikeXub.bas 
+ 1834  lsusb 
+ 1835  cd ~/javaLowLevel/
+ 1836  ls -lc
+ 1837  ls -lct
+ 1838  javac TabGen.java 
+ 1839  java TabGen
+ 1840  javac TabGen2.java 
+ 1841  java TabGen2 
+ 1842  ls -lct
+ 1843  ls PropertiesTest.txt 
+ 1844  cat PropertiesTest.txt 
+ 1845  mv PropertiesTest.txt PropertiesTest2.txt
+ 1846  javac PropertiesTest.java 
+ 1847  java PropertiesTest 
+ 1848  ls Pro* -lct
+ 1849  java PropertiesTest 
+ 1850  cat PropertiesTest.java 
+ 1851  ls  -lct
+ 1852  ls  -lc
+ 1853  javac PropertiesTest2.java 
+ 1854  git status
+ 1855  java PropertiesTest2
+ 1856  ls PropertiesTest* -lc
+ 1857  cat PropertiesTest2.txt 
+ 1858  ls Pro* -lct
+ 1859  java PropertiesTest > PropertiesTest.txt
+ 1860  ls Pro* -lct
+ 1861  diff  PropertiesTest.txt PropertiesTest2.txt 
+ 1862  git status
+ 1863  cat syncguid.dat 
+ 1864  rm syncguid.dat 
+ 1865  git status
+ 1866  git add TabGen.java 
+ 1867  git add TabGen2.java 
+ 1868  git status
+ 1869  git add PropertiesTest2.java 
+ 1870  git status
+ 1871  git PropertiesTest2.txt
+ 1872  git add PropertiesTest2.txt
+ 1873  git status
+ 1874  git add PropertiesTest.txt 
+ 1875  git status
+ 1876  git add Person1.java 
+ 1877  git status
+ 1878  git commit -m "discovered some old source to add"
+ 1879  git status
+ 1880  git push
+ 1881  git status
+ 1882  ls -lct
+ 1883  ls -lc
+ 1884  ls -lct
+ 1885  cat README.md 
+ 1886  git status
+ 1887  git add .
+ 1888  git commit -m "updated README and TabGen2"
+ 1889  git push
+ 1890  lsusb 
+ 1891  cd ~/arduino165/arduino-1.6.5/
+ 1892  ./arduino ls -lc
+ 1893  ls -lc
+ 1894  ./arduino 
+ 1895  lsusb 
+ 1896  cal
+ 1897  cal 2015
+ 1898  cal
+ 1899  cal 2015
+ 1900  df -h
+ 1901  locate Label
+ 1902  cd /home/mikeh/FromXmasUSBstick/NeilF/Label1.java
+ 1903  cd /home/mikeh/FromXmasUSBstick/NeilF
+ 1904  ls -lc
+ 1905  pwd
+ 1906  ls *.html
+ 1907  appletviewer Label1.html 
+ 1908  ls -lct
+ 1909  appletviewer Label1.html 
+ 1910  appletviewer LabelECA.html 
+ 1911  cd /home/mikeh/FromXmasUSBstick/NeilF
+ 1912  appletviewer LabelECA.html 
+ 1913  cal
+ 1914  cal 2015
+ 1915  cal 2016
+ 1916  cal 2015
+ 1917  cd ~/arduino165/arduino-1.6.5/
+ 1918  ./arduino 
+ 1919  ls -lc
+ 1920  cd java/
+ 1921  ls -lc
+ 1922  cd  bin
+ 1923  ls -lc
+ 1924  java -version
+ 1925  java -cp . -version
+ 1926  which java
+ 1927  pwd
+ 1928  ./java -version
+ 1929  lsusb 
+ 1930  ls ~/thisPC/ -lc
+ 1931  lsusb > ~/thisPC/lsusb2.txt 
+ 1932  lsusb 
+ 1933  cd ~/javaLowLevel/
+ 1934  ls -lc
+ 1935  cp PropertiesTest.class ~/arduino165/arduino-1.6.5/java/bin/
+ 1936  cp PropertiesTest.txt ~/arduino165/arduino-1.6.5/java/bin/
+ 1937  java page27 
+ 1938  cp page27.class   ~/arduino165/arduino-1.6.5/java/bin/
+ 1939  cat page27.java 
+ 1940  ls -lct
+ 1941  cp arduinoIDEtest.class   ~/arduino165/arduino-1.6.5/java/bin/
+ 1942  cp ClassB.class  ~/arduino165/arduino-1.6.5/java/bin/
+ 1943  ls -lct
+ 1944  cp Dates1.class  ~/arduino165/arduino-1.6.5/java/bin/
+ 1945  mount
+ 1946  ls -lct
+ 1947  java Dates1 
+ 1948  cp Dates1.class  ~/arduino165/arduino-1.6.5/java/bin/
+ 1949  cp Dates1.class  /media/mikeh/64C3-A63F/
+ 1950  ls  /media/mikeh/64C3-A63F/  -lc
+ 1951  gnome-disks 
+ 1952  ls -lc
+ 1953  ./java -version
+ 1954  ls -lc
+ 1955  ./java PropertiesTest 
+ 1956  ls -lc
+ 1957  ./java PropertiesTest 
+ 1958  ./java PropertiesTest.class
+ 1959  ./java -cp . PropertiesTest.class
+ 1960  ./java -cp . PropertiesTest
+ 1961  ifconfig 
+ 1962  ./java -cp . PropertiesTest
+ 1963  ls -lc
+ 1964  java page27 
+ 1965  ls -lc
+ 1966  java arduinoIDEtest 
+ 1967  java Dates1 
+ 1968  ls -lc
+ 1969  ./java arduinoIDEtest 
+ 1970  ./java Dates1 
+ 1971  lsusb 
+ 1972  cp Dates1.class /media/mikeh/64C3-A63F/
+ 1973  ls -lc
+ 1974  ./java Dates1 
+ 1975  ./jcontrol 
+ 1976  ls -lc
+ 1977  cd ../..
+ 1978  ls -lc
+ 1979  ./arduino 
+ 1980  ./java Dates1 
+ 1981  ls -lc
+ 1982  cd java/bin/
+ 1983  ls -lc
+ 1984  ./javaws -version
+ 1985  ./jjs -version
+ 1986  ./policytool -version
+ 1987  ls -lc
+ 1988  ./keytool -version
+ 1989  ls -lc
+ 1990  grep SIG *.java
+ 1991  grep icrocontrol *.java
+ 1992  grep DATTA *.java
+ 1993  grep pplet *.java
+ 1994  appletviewer LabelECA.html 
+ 1995  ls -lc
+ 1996  ls bins/
+ 1997  ls bins/more/
+ 1998  ls sketches/
+ 1999  ls sketches/core/
+ 2000  lsusb 
+ 2001  dir ~/thisPC/
+ 2002  lsusb > ~/thisPC/lsusb3.txt
+ 2003  mkdir ~/stm8s
+ 2004  cd ~/stm8s
+ 2005  pwd
+ 2006  lsusb > stm8s.txt
+ 2007  ls -lc
+ 2008  cat stm8s.txt 
+ 2009  mount
+ 2010  ls /media/mikeh/A8D9-2F05/
+ 2011  ls /media/mikeh/A8D9-2F05/   -lc
+ 2012  ls /media/mikeh/A8D9-2F05/   -lc  > info1.txt
+ 2013  ls -lc
+ 2014  cat info1.txt 
+ 2015  history > historystm8s.txt
